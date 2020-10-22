@@ -1,0 +1,16 @@
+{
+    "name": "leand/www",
+    "authors": [
+        {
+            "name": "Léandre",
+            "email": "leandre.gaden@gmail.com"
+        }
+    ],
+    "require": {}
+}
+
+{
+    "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+}
